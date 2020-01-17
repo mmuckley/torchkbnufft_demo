@@ -12,7 +12,7 @@ The package has minimal dependencies outside of ```numpy```, ```scipy```, and ``
 
 ## Demonstration Outline
 
-The goal of this demo is to provide examples of ```torchkbnufft```'s 3 main operation modes:
+The goal of this demo is to provide examples of ```torchkbnufft```'s three main operation modes:
 
 1. Table interpolation (default)
 2. Sparse matrix interpolation
